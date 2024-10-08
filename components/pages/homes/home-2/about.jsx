@@ -2,7 +2,7 @@ import shape1 from "../../../../public/assets/img/shape/about.png";
 import shape2 from "../../../../public/assets/img/shape/about-dark.png";
 import image1 from "../../../../public/assets/img/service/smiling-black-male-programmer-joyfully-clapping-ha-2024-07-24-00-00-51-utc.jpg";
 import image2 from "../../../../public/assets/img/service/line-of-teenage-high-school-students-studying-in-c-2023-11-27-05-13-17-utc.jpg";
-import avatar from "../../../../public/assets/img/jacky_1.jpeg";
+import avatar from "../../../../public/assets/img/jacky.jpeg";
 import Count from "../../common/count";
 import Link from "next/link";
 
